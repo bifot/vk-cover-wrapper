@@ -1,0 +1,36 @@
+{
+  "name": "vk-cover-wrapper",
+  "version": "1.0.0",
+  "description": "Easy way to upload and save cover to your community.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mime": "^1.4.0",
+    "path": "^0.12.7",
+    "request-promise": "^4.2.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/vk-cover-wrapper.git"
+  },
+  "keywords": [
+    "vk",
+    "cover",
+    "wrapper",
+    "api"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/vk-cover-wrapper/issues"
+  },
+  "homepage": "https://github.com/bifot/vk-cover-wrapper#readme"
+}
