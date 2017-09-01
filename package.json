@@ -1,6 +1,6 @@
 {
   "name": "vk-cover-wrapper",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy way to upload and save cover to your community.",
   "main": "index.js",
   "directories": {
